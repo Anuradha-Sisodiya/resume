@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anuradha Sisodiya - Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section-title {
+            font-size: 1.2em;
+            margin-bottom: 10px;
+            color: #2980b9;
+        }
+        .key-details {
+            margin: 5px 0;
+        }
+        .project-link a {
+            color: #2980b9;
+            text-decoration: none;
+        }
+        .project-link a:hover {
+            text-decoration: underline;
+        }
+        .hobbies {
+            list-style: circle;
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Anuradha Sisodiya</h1>
+        <p>M.C.A. - Computer Applications</p>
+        <p>Phone: +91-8717881222</p>
+        <p>Email: <a href="mailto:anuradhasisodiya21@gmail.com">anuradhasisodiya21@gmail.com</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/anuradha-sisodiya-72198b317" target="_blank">View Profile</a></p>
+
+        <div class="section">
+            <h2 class="section-title">Personal Details</h2>
+            <p><strong>Gender:</strong> Female</p>
+            <p><strong>Date of Birth:</strong> 15 Jul, 2000</p>
+            <p><strong>Current Address:</strong> Mahaveer Nagar, Indore, Madhya Pradesh, India - 452016</p>
+            <p><strong>Permanent Address:</strong> Narayan Nagar, Kurawar Road, Kalapipal, Madhya Pradesh, India - 465337</p>
+            <p><strong>Languages Known:</strong> C, C++</p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">Key Expertise</h2>
+            <p>HTML, CSS, JavaScript, C, C++, DBMS, Data Structure, Java</p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">Education</h2>
+            <p><strong>2023 - 2025:</strong> M.C.A. - Shri Vaishnav Vidyapeeth Vishwavidyalaya (CGPA: 6.56/10)</p>
+            <p><strong>2018 - 2021:</strong> B.Sc. in Computer Science - Chandra Shekhar Azad Govt. College (60.06%)</p>
+            <p><strong>2018:</strong> 12th - Saraswati Vidya Mandir, Kalapipal (73%)</p>
+            <p><strong>2016:</strong> 10th - Saraswati Vidya Mandir, Kalapipal (87.8%)</p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">Projects</h2>
+            <h3>Rock Paper Scissors Game</h3>
+            <p><strong>Duration:</strong> 01 Jul, 2024 - 10 Aug, 2024</p>
+            <p><strong>Team Size:</strong> 1</p>
+            <p><strong>Key Skills:</strong> HTML, CSS, JavaScript</p>
+            <p><strong>Description:</strong> A game featuring two players (human and computer) with outcomes of draw, win, or loss. The game employs loops, conditional statements, and random number generation.</p>
+            <p class="project-link"><strong>Project Link:</strong> <a href="https://anuradha-sisodiya.github.io/project/" target="_blank">View Project</a></p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">Personal Interests / Hobbies</h2>
+            <ul class="hobbies">
+                <li>Spending time with family</li>
+                <li>Watching movies</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
